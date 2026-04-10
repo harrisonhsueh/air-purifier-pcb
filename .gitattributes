@@ -1,0 +1,9 @@
+# Set default behavior to handle line endings automatically
+* text=auto
+
+# Specifically tell Git to keep KiCad and JSON files as LF
+*.kicad_pcb text eol=lf
+*.kicad_sch text eol=lf
+*.kicad_dru text eol=lf
+*.json text eol=lf
+*.gbr text eol=lf

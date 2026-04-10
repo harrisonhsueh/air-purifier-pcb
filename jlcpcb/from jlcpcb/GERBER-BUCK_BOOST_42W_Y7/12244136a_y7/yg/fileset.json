@@ -1,0 +1,70 @@
+{
+   "file_counts" : 13,
+   "file_list" : [
+      {
+         "file_describe_code" : 0,
+         "file_name" : "BUCK_BOOST_42W-CuBottom.gbr",
+         "layer_name" : "bl"
+      },
+      {
+         "file_describe_code" : 0,
+         "file_name" : "BUCK_BOOST_42W-CuIn1.gbr",
+         "layer_name" : "l2"
+      },
+      {
+         "file_describe_code" : 0,
+         "file_name" : "BUCK_BOOST_42W-CuIn2.gbr",
+         "layer_name" : "l3"
+      },
+      {
+         "file_describe_code" : 0,
+         "file_name" : "BUCK_BOOST_42W-CuTop.gbr",
+         "layer_name" : "tl"
+      },
+      {
+         "file_describe_code" : 2,
+         "file_name" : "BUCK_BOOST_42W-EdgeCuts.gbr",
+         "layer_name" : "gko"
+      },
+      {
+         "file_describe_code" : 0,
+         "file_name" : "BUCK_BOOST_42W-MaskBottom.gbr",
+         "layer_name" : "bs"
+      },
+      {
+         "file_describe_code" : 0,
+         "file_name" : "BUCK_BOOST_42W-MaskTop.gbr",
+         "layer_name" : "ts"
+      },
+      {
+         "file_describe_code" : 4,
+         "file_name" : "BUCK_BOOST_42W-NPTH-drl_map.pdf",
+         "layer_name" : "nil"
+      },
+      {
+         "file_describe_code" : 0,
+         "file_name" : "BUCK_BOOST_42W-NPTH.drl",
+         "layer_name" : "npth"
+      },
+      {
+         "file_describe_code" : 4,
+         "file_name" : "BUCK_BOOST_42W-PTH-drl_map.pdf",
+         "layer_name" : "nil"
+      },
+      {
+         "file_describe_code" : 0,
+         "file_name" : "BUCK_BOOST_42W-PTH.drl",
+         "layer_name" : "drl"
+      },
+      {
+         "file_describe_code" : 0,
+         "file_name" : "BUCK_BOOST_42W-SilkBottom.gbr",
+         "layer_name" : "bo"
+      },
+      {
+         "file_describe_code" : 0,
+         "file_name" : "BUCK_BOOST_42W-SilkTop.gbr",
+         "layer_name" : "to"
+      }
+   ]
+}
