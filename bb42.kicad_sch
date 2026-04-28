@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "618dffee-1c43-487e-bc63-923c9f9a7c5c")
-	(paper "A2")
+	(paper "A4")
 	(lib_symbols
 		(symbol "Connector:TestPoint"
 			(pin_numbers
@@ -5314,6 +5314,16 @@
 			(justify left bottom)
 		)
 		(uuid "a3cf78f5-f97c-4bd3-9611-28aad226a33b")
+	)
+	(label "Vshunt+"
+		(at 274.32 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b21f7567-c0c6-4626-852e-f3ec782a925e")
 	)
 	(label "FB"
 		(at 124.46 71.12 0)

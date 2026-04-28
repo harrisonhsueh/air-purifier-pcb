@@ -13180,6 +13180,48 @@
 		)
 	)
 	(sheet
+		(at 175.26 90.17)
+		(size 12.7 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8af62f27-20c8-4258-966a-b6827769ab12")
+		(property "Sheetname" "Inrush_limiter"
+			(at 175.26 89.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Inrush_limiter.kicad_sch"
+			(at 175.26 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BUCK_BOOST_42W"
+				(path "/c2919a84-19be-47b1-b680-01ad760017c4"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 19.05 71.12)
 		(size 13.97 16.51)
 		(exclude_from_sim no)
