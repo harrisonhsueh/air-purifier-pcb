@@ -500,7 +500,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gerber_jlpcb/",
+      "plot": "layout pdf/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
