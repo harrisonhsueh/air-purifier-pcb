@@ -3816,7 +3816,7 @@
 	)
 	(text "Power"
 		(exclude_from_sim no)
-		(at 183.134 88.9 0)
+		(at 177.292 89.408 0)
 		(effects
 			(font
 				(size 1.27 1.27)
